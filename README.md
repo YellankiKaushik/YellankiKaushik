@@ -76,9 +76,6 @@ I focus on creating **practical AI systems** that solve real problems, not just 
 
 ---
 
-## 📊 GitHub Stats
-<!-- CHANGED: Removed streaks, trophies, quotes -->
-
 ![](https://github-readme-stats.vercel.app/api?username=YellankiKaushik&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YellankiKaushik&theme=dark&hide_border=false&layout=compact)
 
