@@ -5,10 +5,10 @@
 
 # 👋 Hi, I'm Kaushik Yellanki
 
-**AI Engineer | Applied Machine Learning & Intelligent Systems**
+**AI Enthusiast | Applied Machine Learning & Intelligent Systems**
 
 <!-- WHO AM I -->
-I am deeply interested in **Artificial Intelligence** and in **building end-to-end, full-scale AI applications** — from raw data and modeling to deployment and decision support.
+I am deeply interested in **Artificial Intelligence** and in **building end-to-end, full-scale AI applications**
 
 I focus on creating **practical AI systems** that solve real problems, not just notebooks or isolated models.
 
@@ -17,10 +17,10 @@ I focus on creating **practical AI systems** that solve real problems, not just 
 ## 🚀 What I’m Currently Building
 <!-- WHAT AM I BUILDING -->
 
-- End-to-end **AI-driven applications** using Python and ML pipelines  
-- **Business-focused ML solutions** where models translate into decisions  
-- **Analytics + AI systems** that combine dashboards with predictive intelligence  
-- Well-structured projects that are **deployable, explainable, and scalable**
+- End-to-end **AI-driven applications** using Python and ML pipelines.
+- **Business-focused ML solutions** where models translate into decisions.
+- **Analytics + AI systems** that combine dashboards with predictive intelligence.  
+- Well-structured projects that are **deployable, explainable, and scalable.**
 
 ---
 
@@ -28,7 +28,7 @@ I focus on creating **practical AI systems** that solve real problems, not just 
 <!-- TOOLS & SKILLS -->
 
 **Languages**  
-- Python, SQL  
+- Python, C, SQL
 
 **AI / Machine Learning**  
 - Scikit-learn  
@@ -38,8 +38,7 @@ I focus on creating **practical AI systems** that solve real problems, not just 
 
 **Data & Analytics**  
 - Pandas, NumPy  
-- Power BI, Excel  
-- Business KPI design  
+- Power BI, Excel
 
 **Visualization**  
 - Power BI  
@@ -60,12 +59,11 @@ I focus on creating **practical AI systems** that solve real problems, not just 
   Complete ML pipelines: data → model → evaluation → insights  
 
 - 📊 **AI + Analytics Dashboards**  
-  Predictive insights combined with executive-ready visualizations  
+  Predictive insights combined with executive-ready visualizations
 
 - 🧠 **Applied AI Case Studies**  
   Real-world datasets translated into business recommendations  
 
-👉 Check the **pinned repositories** below to see full implementations.
 
 ---
 
