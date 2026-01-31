@@ -74,8 +74,6 @@ I focus on creating **practical AI systems** that solve real problems, not just 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/yellankikaushik/  
 - 📫 **Email:** kaushikyellanki@gmail.com  
 
----
-
 ![](https://github-readme-stats.vercel.app/api?username=YellankiKaushik&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YellankiKaushik&theme=dark&hide_border=false&layout=compact)
 
