@@ -70,7 +70,7 @@ I focus on creating **practical AI systems** that solve real problems, not just 
 ## 🌐 Portfolio & Contact
 <!-- HOW TO REACH ME -->
 
-- 🌍 **Portfolio:** https://yellankikaushik.github.io/KAUSHIKYELLANKI/  
+- 🌍 **Portfolio:** https://yellankikaushik.github.io/KAUSHIK/  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/yellankikaushik/  
 - 📫 **Email:** kaushikyellanki@gmail.com  
 
