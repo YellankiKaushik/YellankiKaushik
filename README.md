@@ -3,7 +3,7 @@
 <!-- AI-focused | End-to-End Systems -->
 <!-- ========================= -->
 
-# 👋 Hi, I'm Kaushik Yellanki
+# 👋 Hi, I'm **Kaushik Yellanki**
 
 **AI Enthusiast | Applied Machine Learning & Intelligent Systems**
 
