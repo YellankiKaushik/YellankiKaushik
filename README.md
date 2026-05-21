@@ -60,7 +60,7 @@ I don't build toy demos. Every project I ship is end-to-end — from problem def
 `Streamlit` `Tableau` `Pandas` `NumPy` `Recharts` `Framer Motion`
 
 ---
-
+<!--
 ## 🚀 Work That Speaks
 
 Each project below was built to solve one specific, real problem. Here's the evidence.
@@ -166,6 +166,7 @@ Each project below was built to solve one specific, real problem. Here's the evi
 </div>
 
 ---
+-->
 
 ## 🏆 Achievements & Recognition
 
@@ -178,7 +179,7 @@ Each project below was built to solve one specific, real problem. Here's the evi
 | 2023 | 🎯 **Google Crowdsource Hackathon Organizer @ VBIT** — Coordinated AI dataset event for 100+ participants |
 
 ---
-
+<!--
 ## ✍️ Thinking & Writing
 
 I write about AI architecture, space theory, and what I've actually built and shipped.
@@ -187,7 +188,7 @@ I write about AI architecture, space theory, and what I've actually built and sh
 - 🛠️ [AI Codebase Documentation Tool](https://topmate.io/kaushik_yellanki/2033727) — Topmate, 2026
 
 ---
-
+-->
 ## 🤝 Let's Connect
 
 Actively seeking roles in **AI Engineering · ML Development · Full-Stack AI Products.**
