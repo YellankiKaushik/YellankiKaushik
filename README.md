@@ -28,7 +28,7 @@ I don't build toy demos. Every project I ship is end-to-end — from problem def
 ## 🔭 Right Now
 
 ```
-→ AI Researcher — building Scalable AI Systems for Myself.
+→ AI Researcher — building Scalable AI Systems that can be integrated into Production Systems.
 → Shipping voice-first and multi-agent LLM systems that eliminate real user friction
 → Writing about AI systems, Space theory, Neuroscience  and LLM architecture on Medium
 → Open to: AI Engineering · ML Development · Full-Stack AI Product roles
