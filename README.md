@@ -10,8 +10,11 @@
 **I build AI systems that solve real problems — deployed, measurable, and production-grade.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yellankikaushik.github.io/KAUSHIK/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yellankikaushik/)
+
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kaushikyellanki)
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushikyellanki@gmail.com)
 
 </div>
@@ -31,9 +34,9 @@ I don't build toy demos. Every project I ship is end-to-end — from problem def
 ## 🔭 Right Now
 
 ```
-→ AI Research Intern @ UptoSkills — building GPT-4 evaluation pipelines for interview intelligence
+→ AI Researcher — building Scalable AI Systems for Myself.
 → Shipping voice-first and multi-agent LLM systems that eliminate real user friction
-→ Writing about AI systems, space theory, and LLM architecture on Medium
+→ Writing about AI systems, Space theory, Neuroscience  and LLM architecture on Medium
 → Open to: AI Engineering · ML Development · Full-Stack AI Product roles
 ```
 
@@ -61,7 +64,7 @@ I don't build toy demos. Every project I ship is end-to-end — from problem def
 
 ---
 <!--
-## 🚀 Work That Speaks
+## 🚀 Work That 
 
 Each project below was built to solve one specific, real problem. Here's the evidence.
 
