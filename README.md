@@ -1,13 +1,13 @@
 
 <!-- ===================================================== -->
 <!-- Yellanki Kaushik — GitHub Profile README              -->
-<!-- AI Systems · Agents · Local AI · Developer Tools      -->
+<!-- AI Engineering · Full-Stack AI · Agents · DevTools    -->
 <!-- ===================================================== -->
 
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C9FF,50:7B61FF,100:FF4ECD&amp;height=220&amp;section=header&amp;text=Yellanki%20Kaushik&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=AI%20Systems%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Agentic%20AI&amp;descAlignY=57&amp;descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C9FF,50:7B61FF,100:FF4ECD&amp;height=220&amp;section=header&amp;text=Yellanki%20Kaushik&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=AI%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20AI%20Builder&amp;descAlignY=57&amp;descSize=18"
     alt="Yellanki Kaushik"
   />
 </p>
@@ -15,16 +15,16 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;pause=1100&amp;color=7B61FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=I+build+AI+systems%2C+not+just+AI+demos.;Agentic+AI+%E2%80%A2+Local+AI+%E2%80%A2+Developer+Tools;Models+reason.+Software+verifies.+Humans+stay+in+control.;Building+systems+that+actually+ship."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;pause=1100&amp;color=7B61FF&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=I+build+complete+AI+products%2C+from+architecture+to+deployment.;Agentic+AI+%E2%80%A2+Generative+AI+%E2%80%A2+Local+AI+%E2%80%A2+Developer+Tools;Models%2C+APIs%2C+data%2C+interfaces+and+infrastructure.;Turning+difficult+ideas+into+working+software."
   alt="Typing SVG"
 />
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%20SYSTEMS-7B61FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20ENGINEERING-7B61FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AGENTIC%20AI-00B8D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LOCAL%20AI-FF4ECD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OPEN%20TO-AI%20ENGINEERING-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FULL--STACK%20AI-FF4ECD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILDER-22C55E?style=for-the-badge" />
 
 <br/><br/>
 
@@ -47,11 +47,13 @@
 
 ## ⚡ Builder Profile
 
-I build the **system around the model**.
+I’m an **AI Software Engineer and Full-Stack AI Builder** focused on turning ideas into complete, working AI products.
+
+I build the **system around the model** — not just the model integration.
 
 That means going beyond prompts and API calls into:
 
-**agent workflows · retrieval · local inference · structured outputs · deterministic validation · human authorization · observability · security · testing · deployment**
+**agent workflows · retrieval · local inference · structured outputs · deterministic validation · multimodal AI · human authorization · observability · security · testing · deployment**
 
 My work is increasingly focused on one engineering question:
 
@@ -63,7 +65,7 @@ My work is increasingly focused on one engineering question:
 
 </div>
 
-I’m currently building toward **AI Engineering / Applied AI / AI Systems** roles, with particular interest in agent-native software, local AI, developer infrastructure, reliable LLM systems, and intelligent interfaces.
+I’m building toward **AI Software Engineering / Applied AI / Full-Stack AI** roles, with particular interest in agent-native software, generative AI, local AI, developer infrastructure, reliable LLM systems, and intelligent interfaces.
 
 ---
 
@@ -330,11 +332,12 @@ That pattern appears repeatedly across the systems I build.
 I’m particularly interested in building:
 
 - agent-native applications and tool-using AI systems
+- generative AI and full-stack AI products
 - local-first and privacy-conscious AI products
 - reliable RAG and memory architectures
 - AI developer tools and engineering infrastructure
 - human-in-the-loop systems for consequential actions
-- production-oriented full-stack AI products
+- production-oriented intelligent software
 
 ---
 
@@ -358,9 +361,9 @@ I’m particularly interested in building:
 
 <div align="center">
 
-### I'm looking for opportunities where I can build serious AI systems.
+### I'm looking for opportunities to build serious AI products and systems.
 
-**AI Engineering · Applied AI · Agentic Systems · AI Infrastructure · Developer Tools**
+**AI Software Engineering · Applied AI · Agentic Systems · Full-Stack AI · Developer Tools**
 
 <br/>
 
@@ -377,7 +380,7 @@ I’m particularly interested in building:
 <br/><br/>
 
 <sub>
-I don't just experiment with models. I build the systems that make them useful.
+I don't just integrate models. I build the complete software systems that make AI useful.
 </sub>
 
 </div>
