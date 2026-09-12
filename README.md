@@ -1,205 +1,323 @@
+```md
 <!-- ========================= -->
 <!-- GitHub Profile README -->
-<!-- AI-focused | End-to-End Systems -->
+<!-- AI/ML · LLM Systems · Full-Stack AI -->
 <!-- ========================= -->
 
 <div align="center">
 
 # Yellanki Kaushik
-### AI/ML Engineer · LLM Systems Builder · Full-Stack Developer
-**I build AI systems that solve real problems — deployed, measurable, and production-grade.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kaaush.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yellankikaushik/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kaushikyellanki) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushikyellanki@gmail.com)
+### AI/ML Engineer · LLM Systems Builder · Full-Stack Developer
+
+**I build production-oriented AI systems that solve real problems — from model and agent architecture to deployed products.**
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kaaush.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yellankikaushik/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kaushikyellanki)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushikyellanki@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YellankiKaushik&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👤 Who I Am
+## 👋 About Me
 
-AI/ML Engineer and Full-Stack Developer based in **Hyderabad, India**.
+I'm an **AI/ML Engineer and Full-Stack Developer based in Hyderabad, India**, focused on building AI products that move beyond prototypes.
 
-I don't build toy demos. Every project I ship is end-to-end — from problem definition to deployed system with measurable outcomes. In the last year I've built LLM products, multi-agent systems, ML diagnostic tools, and serverless SaaS applications — all live, all solving real friction.
+My work spans:
 
-> 🏆 Top 50/500 — Lyzr Agentathon 2026 &nbsp;·&nbsp; 🎙️ Unleash LLM Innovation Challenge &nbsp;·&nbsp; 🌍 1M1B Open Source Recognition
+- LLM-powered applications
+- Multi-agent systems
+- Machine learning products
+- AI APIs and backend systems
+- Full-stack AI applications
+- Cloud-deployed production systems
 
----
+I care about the entire engineering lifecycle:
 
-## 🔭 Right Now
+**Problem → Architecture → Model/API → Product → Deployment → Measurable Result**
 
-```
-→ AI Researcher — building Scalable AI Systems that can be integrated into Production Systems.
-→ Shipping voice-first and multi-agent LLM systems that eliminate real user friction
-→ Writing about AI systems, Space theory, Neuroscience  and LLM architecture on Medium
-→ Open to: AI Engineering · ML Development · Full-Stack AI Product roles
-```
-
----
-
-## ⚙️ Tech Stack
-
-**Core Expertise**
-`Python` `LLM Systems` `Multi-Agent Architecture` `Full-Stack AI Products`
-
-**AI / ML**
-`PyTorch` `scikit-learn` `DistilBERT` `OpenAI GPT-4/4o-mini` `Gemini API` `Whisper` `Hugging Face` `Pydantic` `TF-IDF` `SVM` `Prompt Engineering`
-
-**Web & APIs**
-`React` `Next.js` `TypeScript` `FastAPI` `Flask` `Node.js` `Express.js` `REST API` `Vite`
-
-**Cloud & DevOps**
-`Google Cloud Run` `Docker` `GitHub Actions` `AWS` `Render` `Netlify` `GitHub Pages`
-
-**Databases**
-`PostgreSQL` `MongoDB` `SQLite` `Qdrant (Vector DB)` `Google Sheets API`
-
-**Tools & Visualization**
-`Streamlit` `Tableau` `Pandas` `NumPy` `Recharts` `Framer Motion`
-
----
-<!--
-## 🚀 Work That 
-
-Each project below was built to solve one specific, real problem. Here's the evidence.
+> 🏆 **Top 50 / 500 — Lyzr Agentathon 2026**  
+> 🎙️ **Unleash LLM Innovation Challenge**  
+> 🌍 **1M1B Open Source Recognition**
 
 ---
 
-### 🎙️ VaaniPlan — Voice-First LLM Planning Agent
-**Problem:** Planning tools fail not because they lack features — but because typing feels like extra work when you're already cognitively overloaded.
+## 🔭 What I'm Working On
 
-**Built:** A voice-to-timetable agent. User speaks their day naturally → GPT-4o-mini + Whisper converts speech into a structured, time-based daily plan in under 20 seconds. Model-agnostic architecture, zero data storage, no personal tracking.
-
-**Result:** Selected at the **Unleash LLM Innovation Challenge (YuvAI 2025).**
-
-`Python` `FastAPI` `GPT-4o-mini` `Whisper` `Web Speech API` `Render` `GitHub Pages`
-[🔗 Live Demo](https://yellankikaushik.github.io/VaaniPlan/) · [📁 Repo](https://github.com/YellankiKaushik/VaaniPlan)
-
----
-
-### 🧠 YouTube Sentiment Analysis & AI Insight Engine
-**Problem:** Content creators and marketers waste hours manually reading thousands of comments to understand what their audience actually thinks.
-
-**Built:** A full-stack app that fetches comments from any public YouTube video, classifies 500+ comments/session via DistilBERT (91% SST-2 accuracy), and generates actionable GPT-3.5 strategy reports — all visualized with interactive Recharts dashboards. Research time cut by **90%.**
-
-`Next.js 15` `React 19` `Flask` `DistilBERT` `PyTorch` `GPT-3.5` `YouTube Data API` `TypeScript` `Tailwind CSS` `Recharts`
-[📁 Repo](https://github.com/YellankiKaushik/Integrated-Review-YT-Videos)
+- Building scalable AI systems designed for production environments
+- Exploring multi-agent orchestration and LLM application architecture
+- Building voice-first AI products that reduce user friction
+- Researching practical applications of AI, neuroscience, and intelligent systems
+- Writing about AI systems, LLM architecture, space theory, and technology
+- Open to opportunities in **AI Engineering, ML Engineering, Applied AI, and Full-Stack AI Product Development**
 
 ---
 
-### 💪 FitZone — Zero-Infrastructure Gym Membership SaaS
-**Problem:** Small gym owners can't afford SaaS tools. They run on spreadsheets and silently lose revenue when memberships expire unnoticed.
+## 🚀 Featured Projects
 
-**Built:** A serverless full-stack membership system using Google Apps Script + Sheets as the entire backend. Features a password-protected admin panel, member lookup, expiry tracking, and a **fully automated email alert engine** — notifying the admin when memberships expire today, tomorrow, or in 2 days. Zero duplicate alerts. No third-party services. **$0 hosting.**
+### 🌾 Farmer OS / KISAN.AI
 
-**Result:** `<1.5s latency` · `100% renewal tracking automated` · real system design thinking, not just UI.
+**Multi-agent agricultural intelligence platform built around a 9-agent architecture.**
 
-`React 19` `TypeScript` `Vite` `Tailwind CSS` `Framer Motion` `Google Apps Script` `GmailApp API` `GitHub Pages`
-[🔗 Live Demo](https://yellankikaushik.github.io/Gym-Membership/) · [📁 Repo](https://github.com/YellankiKaushik/Gym-Membership)
+Designed to give farmers access to intelligent agricultural guidance using retrieval, multilingual interfaces, and real-time AI assistance.
+
+**Highlights**
+
+- 9-agent AI architecture
+- Qdrant-powered retrieval system
+- Multilingual text-to-speech
+- Google Cloud + Azure integrations
+- Designed and shipped during a 5-hour hackathon sprint
+- **Top 50 / 500 — Lyzr Agentathon 2026**
+
+`Next.js` `MongoDB` `Qdrant` `AWS` `Google Cloud` `Azure Speech` `Multi-Agent Systems`
+
+---
+
+### 🎙️ VaaniPlan — Voice-First Planning Agent
+
+**Voice-to-timetable AI planning system designed to eliminate the friction of manually organizing a day.**
+
+Users speak naturally, and the system transforms speech into a structured daily schedule.
+
+**Architecture**
+
+`Voice Input → Whisper → LLM → Structured Plan → User Interface`
+
+**Highlights**
+
+- Voice-first interaction
+- GPT-powered schedule generation
+- Whisper speech recognition
+- Model-agnostic architecture
+- No persistent personal-data storage
+- Selected for the **Unleash LLM Innovation Challenge**
+
+`Python` `FastAPI` `GPT` `Whisper` `Web Speech API`
+
+[🔗 Live Demo](https://yellankikaushik.github.io/VaaniPlan/) · [📁 Repository](https://github.com/YellankiKaushik/VaaniPlan)
+
+---
+
+### 🧠 YouTube Sentiment & AI Insight Engine
+
+**AI system for turning large volumes of YouTube comments into sentiment intelligence and actionable insights.**
+
+The application fetches public video comments, classifies sentiment, visualizes audience reactions, and generates AI-powered strategic summaries.
+
+**Highlights**
+
+- DistilBERT sentiment classification
+- 500+ comments processed per session
+- Interactive analytics dashboards
+- AI-generated content strategy reports
+- End-to-end frontend + backend architecture
+
+`Next.js` `React` `TypeScript` `Flask` `PyTorch` `DistilBERT` `OpenAI` `Recharts`
+
+[📁 Repository](https://github.com/YellankiKaushik/Integrated-Review-YT-Videos)
+
+---
+
+### 💪 FitZone — Serverless Gym Membership Platform
+
+**Zero-infrastructure membership management system built for small gyms.**
+
+The system handles member management, membership expiration tracking, admin access, and automated renewal notifications.
+
+**Highlights**
+
+- Google Sheets as database
+- Google Apps Script backend
+- Automated expiration alerts
+- Password-protected admin interface
+- No traditional backend server
+- $0 hosting architecture
+
+`React` `TypeScript` `Vite` `Google Apps Script` `Google Sheets API` `GmailApp`
+
+[🔗 Live Demo](https://yellankikaushik.github.io/Gym-Membership/) · [📁 Repository](https://github.com/YellankiKaushik/Gym-Membership)
 
 ---
 
 ### 🏥 AI Multi-Disease Diagnostic System
-**Problem:** Clinical diagnostic tools are expensive, slow, and completely inaccessible to underserved communities.
 
-**Built:** A 5-model diagnostic system — Diabetes, Heart Disease, Parkinson's, Lung Cancer, Thyroid — trained independently using SVM and tree-based classifiers, serialized for instant inference, and unified into a single Streamlit interface deployed on Streamlit Cloud.
+**Machine-learning application combining multiple disease prediction models into one interface.**
 
-**Result:** `87.2% accuracy` · `sub-10ms inference` · `75% usability gain` over manual clinical tools.
+Supports prediction workflows for:
 
-`Python` `scikit-learn` `Streamlit` `Pandas` `NumPy` `Pickle`
-[🔗 Live App](https://aidiagnose.streamlit.app/) · [📁 Repo](https://github.com/YellankiKaushik/AI_Diagnosis_Prediction_System)
+- Diabetes
+- Heart Disease
+- Parkinson's
+- Lung Cancer
+- Thyroid disorders
 
----
+`Python` `scikit-learn` `Streamlit` `Pandas` `NumPy` `SVM`
 
-### 🌾 Farmer OS (KISAN.AI) — 9-Agent Agricultural Intelligence System
-**Problem:** 140M+ Indian farmers operate without access to any expert agricultural guidance.
-
-**Built:** A 9-agent multi-agent system with Qdrant RAG, multilingual TTS (Google Cloud + Azure Speech), and real-time decision intelligence — designed, architected, and fully shipped in a **5-hour hackathon sprint.**
-
-**Result:** **Top 50 out of 500 curated builders** at Lyzr Agentathon 2026, Bengaluru.
-
-`Lyzr Architect` `Next.js` `MongoDB` `Qdrant RAG` `AWS` `Google Cloud TTS` `Azure Speech` `Netlify`
+[🔗 Live App](https://aidiagnose.streamlit.app/) · [📁 Repository](https://github.com/YellankiKaushik/AI_Diagnosis_Prediction_System)
 
 ---
 
-### 🎯 AI Interview Evaluation Engine *(@ UptoSkills)*
-**Problem:** Manual interview scoring is inconsistent, unscalable, and wastes thousands of engineering hours.
+## ⚙️ Technical Stack
 
-**Built:** A GPT-4 evaluation engine with Pydantic schema enforcement, exponential backoff for reliability, and a TF-IDF plagiarism detector — all served through a FastAPI backend. Screening time cut by **70%** at **99.9% reliability** under 50ms response.
+### AI / Machine Learning
 
-`Python` `FastAPI` `OpenAI GPT-4` `scikit-learn` `TF-IDF` `Pydantic` `Streamlit`
+`Python`
+`PyTorch`
+`scikit-learn`
+`DistilBERT`
+`Hugging Face`
+`SVM`
+`TF-IDF`
+`Pandas`
+`NumPy`
+
+### LLM & Agent Systems
+
+`OpenAI`
+`Gemini`
+`Whisper`
+`Prompt Engineering`
+`Pydantic`
+`RAG`
+`Qdrant`
+`Multi-Agent Architecture`
+
+### Backend & APIs
+
+`FastAPI`
+`Flask`
+`Node.js`
+`Express.js`
+`REST APIs`
+
+### Frontend
+
+`React`
+`Next.js`
+`TypeScript`
+`JavaScript`
+`Vite`
+`Framer Motion`
+`Recharts`
+
+### Cloud & DevOps
+
+`Google Cloud Run`
+`AWS`
+`Docker`
+`GitHub Actions`
+`Render`
+`Netlify`
+`GitHub Pages`
+
+### Databases & Storage
+
+`PostgreSQL`
+`MongoDB`
+`SQLite`
+`Qdrant`
+`Google Sheets API`
+
+---
+
+## 🧩 Other Systems I've Built
+
+### 🎯 AI Interview Evaluation Engine
+
+AI-powered interview evaluation backend using structured GPT outputs, Pydantic validation, retry mechanisms, and plagiarism detection.
+
+`Python` `FastAPI` `OpenAI` `Pydantic` `scikit-learn` `TF-IDF`
 
 ---
 
 ### 🌍 AI Crowd Intelligence Assistant
-**Problem:** Public spaces have crowd bottlenecks with no intelligent routing — people waste time guessing.
 
-**Built:** A MCDM scoring engine + Gemini Pro router deployed on Google Cloud Run — sub-100ms routing, 30% travel-time reduction, trilingual support across English, Hindi, and Telugu.
+Crowd-routing and decision-support system combining a multi-criteria decision engine with Gemini-powered routing.
 
-`Node.js` `Express.js` `Google Gemini Pro` `Google Cloud Run` `MCDM Engine` `SVG` `i18n`
-[🔗 Live](https://yellankikaushik.github.io/KAUSHIK/)
+`Node.js` `Express.js` `Gemini` `Google Cloud Run` `MCDM`
 
 ---
 
-### 🗳️ Sistemaa Electoral — AI Election Education Assistant
-**Problem:** First-time voters in India have no accessible, trustworthy resource to understand the electoral process.
+### 🗳️ Sistemaa Electoral
 
-**Built:** A Dockerized multilingual AI assistant using Gemini 1.5 Flash + Google Cloud Translation API, with LRU caching and 50 req/min rate limiting, deployed on Cloud Run — **99% response safety.**
+Multilingual AI assistant designed to help users understand the Indian electoral process.
 
-`Node.js` `Gemini 1.5 Flash` `Google Cloud Translation API` `Docker` `Cloud Run` `LRU Cache`
-[🔗 Live](https://yellankikaushik.github.io/KAUSHIK/) · [📁 Repo](https://github.com/YellankiKaushik)
+`Node.js` `Gemini` `Google Cloud Translation API` `Docker` `Cloud Run`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YellankiKaushik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YellankiKaushik&show_icons=true&hide_border=true&theme=transparent" alt="Kaushik's GitHub stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YellankiKaushik&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YellankiKaushik&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YellankiKaushik&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YellankiKaushik&hide_border=true&theme=transparent" alt="GitHub streak" />
 
 </div>
 
 ---
--->
 
 ## 🏆 Achievements & Recognition
 
-| Year | Achievement |
-|------|-------------|
-| 2026 | 🥇 **Top 50/500** — Lyzr Agentathon 2026, Bengaluru — Farmer OS built in a 5-hour sprint |
-| 2025 | 🎙️ **Unleash LLM Innovation Challenge** — VaaniPlan selected for production-grade LLM design |
-| 2026 | 🌍 **1M1B Foundation** — Open-source LLM project recognized for real-world social impact |
-| 2026 | 🛠️ **Topmate** — AI Codebase Doc tool that reads your entire codebase and writes `Project_Explanation.md` |
-| 2023 | 🎯 **Google Crowdsource Hackathon Organizer @ VBIT** — Coordinated AI dataset event for 100+ participants |
+| Year | Recognition |
+|---|---|
+| 2026 | 🥇 **Top 50 / 500 — Lyzr Agentathon**, Bengaluru |
+| 2026 | 🌍 **1M1B Foundation** — Open-source AI project recognition |
+| 2026 | 🛠️ Published an **AI Codebase Documentation Tool** through Topmate |
+| 2025 | 🎙️ **Unleash LLM Innovation Challenge** — VaaniPlan selected |
+| 2023 | 🎯 **Google Crowdsource Hackathon Organizer @ VBIT** — coordinated an AI dataset event for 100+ participants |
 
 ---
-<!--
-## ✍️ Thinking & Writing
 
-I write about AI architecture, space theory, and what I've actually built and shipped.
+## ✍️ Writing & Research
 
-- 📖 [The Abundance of Space Theory](https://medium.com/@kaushikyellanki/the-abundance-of-space-theory-bbc8a5314615) — Medium, 2026
-- 🛠️ [AI Codebase Documentation Tool](https://topmate.io/kaushik_yellanki/2033727) — Topmate, 2026
+I write about AI systems, LLM architecture, emerging technology, neuroscience, and theoretical ideas.
+
+📖 [The Abundance of Space Theory](https://medium.com/@kaushikyellanki/the-abundance-of-space-theory-bbc8a5314615)
+
+🛠️ [AI Codebase Documentation Tool](https://topmate.io/kaushik_yellanki/2033727)
 
 ---
--->
+
 ## 🤝 Let's Connect
 
-Actively seeking roles in **AI Engineering · ML Development · Full-Stack AI Products.**
-If you're building something ambitious with AI — let's talk.
+I'm interested in working on problems involving:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge)](https://yellankikaushik.github.io/KAUSHIK/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/yellankikaushik/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge)](mailto:kaushikyellanki@gmail.com)
+**Applied AI · LLM Systems · AI Agents · Machine Learning · AI Infrastructure · Full-Stack AI Products**
+
+If you're building something technically ambitious with AI, feel free to reach out.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kaaush.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yellankikaushik/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushikyellanki@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
-<sub>Built with purpose. Shipped with precision. Every project solves something real.</sub>
-</div>
 
-<!-- Intentionally minimal -->
-<!-- Focus: AI identity, current work, skills, and contact -->
+<sub>
+Building AI systems that move from idea → architecture → deployment.
+</sub>
+
+</div>
+```
