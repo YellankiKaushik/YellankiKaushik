@@ -1,4 +1,4 @@
-```md
+
 <!-- ========================= -->
 <!-- GitHub Profile README -->
 <!-- AI/ML · LLM Systems · Full-Stack AI -->
