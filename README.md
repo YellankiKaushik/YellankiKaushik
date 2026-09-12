@@ -1,13 +1,13 @@
 
 <!-- ===================================================== -->
 <!-- Yellanki Kaushik — GitHub Profile README              -->
-<!-- AI Systems · Agents · Local AI · Developer Tools      -->
+<!-- AI Systems · Agentic AI · Generative AI · Builders    -->
 <!-- ===================================================== -->
 
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C9FF,50:7B61FF,100:FF4ECD&amp;height=220&amp;section=header&amp;text=Yellanki%20Kaushik&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=AI%20Systems%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Agentic%20AI&amp;descAlignY=57&amp;descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C9FF,48:7B61FF,100:FF4ECD&amp;height=230&amp;section=header&amp;text=Yellanki%20Kaushik&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=34&amp;desc=AI%20Systems%20%26%20Agentic%20Software%20Engineer&amp;descAlignY=56&amp;descSize=19"
     alt="Yellanki Kaushik"
   />
 </p>
@@ -15,16 +15,16 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;pause=1100&amp;color=7B61FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=I+build+AI+systems%2C+not+just+AI+demos.;Agentic+AI+%E2%80%A2+Local+AI+%E2%80%A2+Developer+Tools;Models+reason.+Software+verifies.+Humans+stay+in+control.;Building+systems+that+actually+ship."
-  alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;pause=1100&amp;color=7B61FF&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=I+turn+ambiguous+problems+into+working+AI+systems.;Agents+%E2%80%A2+LLMs+%E2%80%A2+Local+AI+%E2%80%A2+RAG+%E2%80%A2+Developer+Tools;From+hackathon+idea+to+architecture%2C+code%2C+testing+and+deployment.;I+build+the+software+around+the+model."
+  alt="Typing introduction"
 />
 
 <br/>
 
 <img src="https://img.shields.io/badge/AI%20SYSTEMS-7B61FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AGENTIC%20AI-00B8D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LOCAL%20AI-FF4ECD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OPEN%20TO-AI%20ENGINEERING-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-FF4ECD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILDER-22C55E?style=for-the-badge" />
 
 <br/><br/>
 
@@ -45,31 +45,41 @@
 
 ---
 
-## ⚡ Builder Profile
+# ⚡ The Builder
 
-I build the **system around the model**.
+I am an **AI Systems & Agentic Software Engineer** focused on turning difficult, ambiguous problems into working software.
 
-That means going beyond prompts and API calls into:
-
-**agent workflows · retrieval · local inference · structured outputs · deterministic validation · human authorization · observability · security · testing · deployment**
-
-My work is increasingly focused on one engineering question:
-
-> **How do we make AI useful enough to act, while keeping the surrounding system reliable enough to trust?**
+I work across the complete AI product lifecycle:
 
 <div align="center">
 
-### `Problem → Architecture → Deterministic Core → AI Layer → Validation → Product → Deployment`
+### `Problem → Research → Architecture → AI → Software → Validation → Deployment`
 
 </div>
 
-I’m currently building toward **AI Engineering / Applied AI / AI Systems** roles, with particular interest in agent-native software, local AI, developer infrastructure, reliable LLM systems, and intelligent interfaces.
+I am most effective when the problem is still messy.
+
+Give me a hackathon brief, an AI product idea, an unreliable LLM workflow, a codebase that needs intelligence, or a system that needs agents — and I naturally move toward:
+
+- breaking the problem into executable components
+- deciding what should be handled by AI and what should remain deterministic
+- designing the architecture around failure, safety, state, and validation
+- integrating models, retrieval, memory, tools, APIs, and interfaces
+- building the full product instead of stopping at a notebook or proof-of-concept
+- testing the actual workflow
+- documenting the system clearly enough for another engineer to understand it
+- shipping a working result under real constraints
+
+> **Models can reason. Software must verify. Humans should retain control where it matters.**
+
+That principle increasingly defines the systems I build.
 
 ---
 
 # 🚀 Selected Work
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -77,14 +87,29 @@ I’m currently building toward **AI Engineering / Applied AI / AI Systems** rol
 <h3>🏗️ Codebase Architect</h3>
 
 <img src="https://img.shields.io/badge/AI%20DEVTOOLS-7B61FF?style=flat-square" />
+<img src="https://img.shields.io/badge/LOCAL--FIRST-22C55E?style=flat-square" />
 
 <br/><br/>
 
-Turns software repositories into **evidence-backed engineering documentation and synchronized architecture diagrams**.
+<b>Problem</b><br/>
+LLMs can produce convincing explanations of repositories while still hallucinating architecture and implementation details.
 
-Instead of asking an LLM to guess how a codebase works, deterministic scanners construct a Code Intelligence Graph and architecture representation first. Local AI is optional and operates only on bounded evidence.
+<br/><br/>
 
-<br/>
+<b>Built</b><br/>
+A local-first engineering intelligence system that scans repositories, constructs a <b>Code Intelligence Graph</b>, infers architecture, generates diagrams, and creates evidence-backed technical documentation.
+
+<br/><br/>
+
+<b>Impact</b><br/>
+
+→ Separates <b>VERIFIED</b>, <b>INFERRED</b>, and <b>UNKNOWN</b> claims<br/>
+→ Supports Python + JavaScript/TypeScript analysis<br/>
+→ Generates multiple architecture and dependency diagrams<br/>
+→ Works without an LLM through deterministic analysis<br/>
+→ Supports local models through Ollama and OpenAI-compatible runtimes
+
+<br/><br/>
 
 <code>Python</code>
 <code>AST</code>
@@ -95,7 +120,7 @@ Instead of asking an LLM to guess how a codebase works, deterministic scanners c
 <br/><br/>
 
 <a href="https://github.com/YellankiKaushik/Codebase-Architect">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explore%20Codebase%20Architect-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -105,14 +130,29 @@ Instead of asking an LLM to guess how a codebase works, deterministic scanners c
 <h3>📦 LoadGuard 3D</h3>
 
 <img src="https://img.shields.io/badge/AGENTIC%20SYSTEM-00B8D9?style=flat-square" />
+<img src="https://img.shields.io/badge/HUMAN--IN--THE--LOOP-F59E0B?style=flat-square" />
 
 <br/><br/>
 
-A **WebMCP-native logistics system** where an AI agent can inspect state, create deterministic 3D load plans, validate them, and stage actions.
+<b>Problem</b><br/>
+AI agents can propose operational actions, but allowing them to authorize real-world state changes creates unacceptable control and safety risks.
 
-The agent cannot authorize its own proposal. Exact execution remains **human-controlled and database-enforced**.
+<br/><br/>
 
-<br/>
+<b>Built</b><br/>
+A WebMCP-native logistics system where an agent can inspect state, create a deterministic 3D load plan, validate it, and stage an exact proposal — while only a human can authorize execution.
+
+<br/><br/>
+
+<b>Impact</b><br/>
+
+→ Improved the judge scenario from <b>8/9 → 9/9 packages placed</b><br/>
+→ Increased truck utilization from <b>75.6% → 78.4%</b><br/>
+→ Produced a valid plan with <b>0 hard violations</b><br/>
+→ Enforced approval at the database authority layer<br/>
+→ Made repeated execution idempotent through proposal-state controls
+
+<br/><br/>
 
 <code>WebMCP</code>
 <code>React</code>
@@ -125,8 +165,9 @@ The agent cannot authorize its own proposal. Exact execution remains **human-con
 <a href="https://github.com/YellankiKaushik/Load-WebMCP">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://webmcp-openai.kaushikyellanki.workers.dev/">
-  <img src="https://img.shields.io/badge/Live%20Demo-00B8D9?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live%20System-00B8D9?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </a>
 
 </td>
@@ -140,14 +181,29 @@ The agent cannot authorize its own proposal. Exact execution remains **human-con
 <h3>🧠 Local AI Side Panel</h3>
 
 <img src="https://img.shields.io/badge/LOCAL%20AI-FF4ECD?style=flat-square" />
+<img src="https://img.shields.io/badge/PRIVACY--FIRST-7B61FF?style=flat-square" />
 
 <br/><br/>
 
-A Chrome Manifest V3 extension for chatting with **locally installed Ollama models** directly from the browser.
+<b>Problem</b><br/>
+Most AI assistants depend on cloud inference, accounts, API keys, and remote conversation processing even when capable models are already running locally.
 
-Supports model discovery, streaming generation, conversation management, local persistence, configurable inference, and loopback-only model endpoints — without requiring cloud inference.
+<br/><br/>
 
-<br/>
+<b>Built</b><br/>
+A Chrome Manifest V3 side-panel application that connects directly to locally installed Ollama models and provides a complete browser-native AI chat workflow.
+
+<br/><br/>
+
+<b>Impact</b><br/>
+
+→ <b>0 project-controlled cloud inference services</b> in the runtime<br/>
+→ Conversations stay on-device through IndexedDB<br/>
+→ Model configuration stays in <code>chrome.storage.local</code><br/>
+→ Restricts inference endpoints to loopback addresses<br/>
+→ Supports streaming, cancellation, model discovery, export, and multiple conversations
+
+<br/><br/>
 
 <code>Chrome MV3</code>
 <code>TypeScript</code>
@@ -167,28 +223,44 @@ Supports model discovery, streaming generation, conversation management, local p
 
 <h3>🇮🇳 SchemeSeva</h3>
 
-<img src="https://img.shields.io/badge/RAG%20%2B%20AGENTS-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20AGENTS-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-7B61FF?style=flat-square" />
 
 <br/><br/>
 
-A civic AI agent that helps citizens discover government schemes they may likely qualify for.
+<b>Problem</b><br/>
+Citizens often miss government benefits because eligibility information is fragmented, difficult to interpret, and requires repeated manual searching.
 
-Combines **semantic retrieval, deterministic eligibility rules, persistent agent memory, source-grounded generation, safety validation, and proactive monitoring**.
+<br/><br/>
 
-<br/>
+<b>Built</b><br/>
+A civic AI system combining retrieval, deterministic eligibility evaluation, reasoning, persistent memory, safety validation, and proactive monitoring.
+
+<br/><br/>
+
+<b>Impact</b><br/>
+
+→ Structured a verified catalog of <b>28 Central + Telangana schemes</b><br/>
+→ Built a multi-stage AI workflow for retrieval → eligibility → reporting → validation<br/>
+→ Added Qdrant-backed retrieval and persistent session memory<br/>
+→ Added a Vigilance Agent that detects previously unseen matches<br/>
+→ Added safety validation before citizen-facing outputs
+
+<br/><br/>
 
 <code>TypeScript</code>
 <code>Qdrant</code>
 <code>RAG</code>
 <code>Agents</code>
-<code>Langfuse</code>
 <code>Enkrypt</code>
+<code>Langfuse</code>
 
 <br/><br/>
 
 <a href="https://github.com/YellankiKaushik/Agent-Codex-Hackathon">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://agent-codex-hackathon.vercel.app/">
   <img src="https://img.shields.io/badge/Live%20Demo-F59E0B?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
@@ -204,14 +276,29 @@ Combines **semantic retrieval, deterministic eligibility rules, persistent agent
 <h3>🛡️ ShieldRouter</h3>
 
 <img src="https://img.shields.io/badge/MULTIMODAL%20AI-EF4444?style=flat-square" />
+<img src="https://img.shields.io/badge/LOCAL%20INFERENCE-22C55E?style=flat-square" />
 
 <br/><br/>
 
-A multimodal notification-routing system that decides whether incoming messages should **notify, digest, or mute**.
+<b>Problem</b><br/>
+Notification systems need to determine what deserves immediate attention while handling text, images, audio, spam, scams, urgency, and user context.
 
-Combines deterministic policy, retrieval, local OCR, local speech recognition, structured evidence, and safety checks rather than depending entirely on remote model inference.
+<br/><br/>
 
-<br/>
+<b>Built</b><br/>
+A multimodal routing pipeline that classifies incoming messages into <b>notify</b>, <b>digest</b>, or <b>mute</b> using deterministic policy, retrieval, local OCR, local speech recognition, and optional model reasoning.
+
+<br/><br/>
+
+<b>Impact</b><br/>
+
+→ Processes text, image-derived content, QR information, and voice transcripts<br/>
+→ Local multimodal execution can run with <b>0 external provider requests</b> after model preparation<br/>
+→ Safety checks execute before final routing<br/>
+→ High-risk content cannot be promoted by personalization<br/>
+→ Produces structured evidence for every routing decision
+
+<br/><br/>
 
 <code>Python</code>
 <code>Faster-Whisper</code>
@@ -231,21 +318,36 @@ Combines deterministic policy, retrieval, local OCR, local speech recognition, s
 
 <h3>📊 AI Free Tier Tracker</h3>
 
-<img src="https://img.shields.io/badge/OPEN%20SOURCE%20DATA-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20INFRASTRUCTURE-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/OPEN%20DATA-00B8D9?style=flat-square" />
 
 <br/><br/>
 
-A verified, machine-readable knowledge base for **AI coding tools, coding agents, app builders, model APIs, quotas, reset windows, and free-tier restrictions**.
+<b>Problem</b><br/>
+AI tool free tiers constantly change, and developers waste time comparing incompatible quotas, trials, recurring allowances, and undocumented restrictions.
 
-Built as maintainable data infrastructure with validation, generated artifacts, evidence tracking, and CI — not just another manually maintained tool list.
+<br/><br/>
 
-<br/>
+<b>Built</b><br/>
+A verified, machine-readable database and validation pipeline for AI coding assistants, coding agents, app builders, open-source tools, and model APIs.
+
+<br/><br/>
+
+<b>Impact</b><br/>
+
+→ Tracks <b>43 AI tools</b><br/>
+→ <b>41 / 43 — ~95%</b> currently marked active<br/>
+→ Tracks <b>25</b> recurring/dynamic free-access records<br/>
+→ Includes <b>14</b> open-source/BYOK tools<br/>
+→ Generates structured JSON, reset calendars, README tables, and a static dashboard automatically
+
+<br/><br/>
 
 <code>Python</code>
 <code>Structured Data</code>
-<code>Automation</code>
 <code>CI</code>
-<code>Developer Tools</code>
+<code>Automation</code>
+<code>Developer Tooling</code>
 
 <br/><br/>
 
@@ -256,7 +358,77 @@ Built as maintainable data infrastructure with validation, generated artifacts, 
 </td>
 
 </tr>
+
 </table>
+
+---
+
+# 🧩 What I Bring to an AI Team
+
+<table>
+<tr>
+
+<td width="25%" align="center" valign="top">
+
+### ⚡ Fast Execution
+
+I can move from an unclear brief to architecture and a working implementation quickly — especially in hackathon and prototype environments.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 🧠 AI System Design
+
+I think beyond the model: orchestration, state, retrieval, tools, validation, fallbacks, safety, and execution boundaries.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 🛠️ Full-Stack Ownership
+
+I am comfortable moving across backend, frontend, AI integrations, databases, cloud infrastructure, testing, and deployment.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 🔍 Engineering Discipline
+
+I care about evidence, deterministic validation, security boundaries, failure modes, documentation, and systems that can actually be inspected.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏁 Hackathon Mode
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/UNDERSTAND%20THE%20BRIEF-7B61FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FIND%20THE%20DIFFERENTIATOR-00B8D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILD%20THE%20SYSTEM-FF4ECD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SHIP%20THE%20DEMO-22C55E?style=for-the-badge" />
+
+</div>
+
+<br/>
+
+Hackathons are one of the environments where my working style fits naturally.
+
+I like constraints.
+
+A short deadline forces the important questions:
+
+**What actually matters? What can be deterministic? Where does AI create leverage? What will judges remember? What must work live?**
+
+My goal is not to finish with the most features.
+
+My goal is to finish with a **clear idea, strong technical story, working implementation, defensible architecture, and a demo that proves the system works.**
 
 ---
 
@@ -273,118 +445,125 @@ Built as maintainable data infrastructure with validation, generated artifacts, 
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
 <img src="https://img.shields.io/badge/RAG-7B61FF?style=flat-square" />
 <img src="https://img.shields.io/badge/WebMCP-00B8D9?style=flat-square" />
-<img src="https://img.shields.io/badge/Tree--sitter-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/Tree--sitter-22C55E?style=flat-square" />
 <img src="https://img.shields.io/badge/Langfuse-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM%20Agents-FF4ECD?style=flat-square" />
 
 </div>
 
 ---
 
-## 🧬 How I Think About AI Engineering
+# 🧬 My AI Engineering Philosophy
 
 <table>
 <tr>
-<td align="center" width="33%">
 
-### 🧠 Models Reason
+<td align="center" width="33%" valign="top">
 
-LLMs and models handle ambiguity, language, interpretation, synthesis, and flexible reasoning.
+### 🧠 AI for Ambiguity
 
-</td>
-
-<td align="center" width="33%">
-
-### ⚙️ Software Verifies
-
-Deterministic code validates constraints, schemas, evidence, safety rules, and system invariants.
+Use models where language, reasoning, synthesis, interpretation, and flexible decision-making create leverage.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-### 👤 Humans Control
+### ⚙️ Software for Certainty
 
-Consequential actions should preserve explicit authority, inspection, and meaningful human control.
+Use deterministic systems for invariants, policies, validation, scoring, schemas, permissions, and irreversible state changes.
 
 </td>
+
+<td align="center" width="33%" valign="top">
+
+### 👤 Humans for Authority
+
+When an AI system affects consequential real-world state, preserve meaningful human inspection and control.
+
+</td>
+
 </tr>
 </table>
 
-That pattern appears repeatedly across the systems I build.
-
 ---
 
-## 🎯 Current Direction
+# 🎯 Where I'm Going
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20AGENTS-7B61FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LOCAL%20AI-FF4ECD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20DEVTOOLS-00B8D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RELIABLE%20AI-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20ENGINEERING-7B61FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AGENTIC%20SYSTEMS-00B8D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-FF4ECD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20INFRASTRUCTURE-22C55E?style=for-the-badge" />
 
 </div>
 
 <br/>
 
-I’m particularly interested in building:
+I want to work on systems where AI is part of a serious software architecture rather than a feature attached at the end.
 
-- agent-native applications and tool-using AI systems
-- local-first and privacy-conscious AI products
-- reliable RAG and memory architectures
-- AI developer tools and engineering infrastructure
-- human-in-the-loop systems for consequential actions
-- production-oriented full-stack AI products
+Areas I am particularly interested in:
+
+- AI agents and tool-using systems
+- Generative AI applications
+- RAG and long-term memory
+- local and privacy-preserving AI
+- multimodal systems
+- developer tools for AI engineers
+- AI evaluation and observability
+- human-in-the-loop workflows
+- reliable full-stack AI products
+- AI infrastructure and model integration
 
 ---
 
-## 🏆 Recognition
+# 🏆 Recognition
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Top%2050%20%2F%20500-Lyzr%20Agentathon%202026-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TOP%2050%20%2F%20500-LYZR%20AGENTATHON%202026-F59E0B?style=for-the-badge" />
 
 <br/><br/>
 
-**Unleash LLM Innovation Challenge**  
-**1M1B Open Source Recognition**  
-**Google Crowdsource Hackathon Organizer @ VBIT**
+### 🎙️ Unleash LLM Innovation Challenge
+
+### 🌍 1M1B Open Source Recognition
+
+### 🎯 Google Crowdsource Hackathon Organizer @ VBIT
 
 </div>
 
 ---
 
-## 🤝 Let's Build
+# 🤝 Build With Me
 
 <div align="center">
 
-### I'm looking for opportunities where I can build serious AI systems.
+### Looking for AI Engineering, Agentic AI, Generative AI, and Applied AI opportunities.
 
-**AI Engineering · Applied AI · Agentic Systems · AI Infrastructure · Developer Tools**
+I work best on problems that require someone to **understand quickly, architect clearly, build aggressively, verify carefully, and ship.**
 
 <br/>
 
 <a href="https://kaaush.vercel.app/">
   <img src="https://img.shields.io/badge/Explore%20My%20Work-7B61FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/yellankikaushik/">
-  <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:kaushikyellanki@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Start%20a%20Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<sub>
-I don't just experiment with models. I build the systems that make them useful.
-</sub>
-
-</div>
+### `I don't just call models. I build the systems that make them useful.`
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YellankiKaushik&style=for-the-badge&color=7B61FF&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=YellankiKaushik&style=for-the-badge&color=7B61FF&label=PROFILE+VIEWS" alt="Profile views" />
+
 </div>
 ```
