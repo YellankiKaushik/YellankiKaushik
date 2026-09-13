@@ -1,4 +1,3 @@
-
 <!-- ===================================================== -->
 <!-- Yellanki Kaushik — GitHub Profile README              -->
 <!-- AI Engineering · Full-Stack AI · Agents · DevTools    -->
@@ -264,21 +263,99 @@ Built as maintainable data infrastructure with validation, generated artifacts, 
 
 # 🧰 Engineering Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,pytorch,postgres,supabase,mongodb,docker,gcp,aws,cloudflare,githubactions,git,linux&perline=8" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" alt="Python, TypeScript, JavaScript" />
+</p>
 
-<br/><br/>
+### AI · ML · LLM Systems
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-7B61FF?style=flat-square" />
-<img src="https://img.shields.io/badge/WebMCP-00B8D9?style=flat-square" />
-<img src="https://img.shields.io/badge/Tree--sitter-10B981?style=flat-square" />
-<img src="https://img.shields.io/badge/Langfuse-F59E0B?style=flat-square" />
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="PyTorch and scikit-learn" />
+</p>
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Whisper-10A37F?style=flat-square" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/RAG-7B61FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Agents-00B8D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Local%20LLMs-FF4ECD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Structured%20Outputs-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Multimodal%20AI-EF4444?style=flat-square" />
+  <img src="https://img.shields.io/badge/Human--in--the--Loop-F59E0B?style=flat-square" />
+</p>
+
+### Agentic · Retrieval · AI Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Langfuse-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Enkrypt%20AI-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebMCP-00B8D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tree--sitter-22C55E?style=for-the-badge" />
+</p>
+
+### Frontend · Product Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&theme=dark" alt="React, Next.js, Vite, Tailwind CSS, Three.js" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/TanStack-FF4154?style=flat-square" />
+  <img src="https://img.shields.io/badge/React%20Three%20Fiber-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square" />
+</p>
+
+### Backend · APIs · Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis,sqlite,supabase&theme=dark" alt="Node.js, Express, FastAPI, PostgreSQL, MongoDB, Redis, SQLite, Supabase" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-7B61FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector%20Search-DC244C?style=flat-square" />
+  <img src="https://img.shields.io/badge/IndexedDB-FF4ECD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=black" />
+</p>
+
+### Cloud · DevOps · Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,githubactions,git,github,linux,vercel,firebase&theme=dark" alt="AWS, Google Cloud, Cloudflare, Docker, GitHub Actions, Git, GitHub, Linux, Vercel, Firebase" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%20%2F%20CD-2088FF?style=flat-square" />
+</p>
+
+### Testing · Quality · Engineering Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,github&theme=dark" alt="VS Code and GitHub" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript%20Strict-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deterministic%20Validation-22C55E?style=flat-square" />
+</p>
 
 ---
 
@@ -390,4 +467,3 @@ I don't just integrate models. I build the complete software systems that make A
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YellankiKaushik&style=for-the-badge&color=7B61FF&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
-```
