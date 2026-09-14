@@ -67,199 +67,101 @@ My work is increasingly focused on one engineering question:
 I’m building toward **AI Software Engineering / Applied AI / Full-Stack AI** roles, with particular interest in agent-native software, generative AI, local AI, developer infrastructure, reliable LLM systems, and intelligent interfaces.
 
 ---
-
 # 🚀 Selected Work
 
 <table>
+
 <tr>
+<td>
 
-<td width="50%" valign="top">
+### [🏗️ Codebase Architect](https://github.com/YellankiKaushik/Codebase-Architect)
 
-<h3>🏗️ Codebase Architect</h3>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tree-sitter](https://img.shields.io/badge/Tree--sitter-22C55E?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Local AI](https://img.shields.io/badge/Local_AI-7B61FF?style=flat-square)
 
-<img src="https://img.shields.io/badge/AI%20DEVTOOLS-7B61FF?style=flat-square" />
-
-<br/><br/>
-
-Turns software repositories into **evidence-backed engineering documentation and synchronized architecture diagrams**.
-
-Instead of asking an LLM to guess how a codebase works, deterministic scanners construct a Code Intelligence Graph and architecture representation first. Local AI is optional and operates only on bounded evidence.
-
-<br/>
-
-<code>Python</code>
-<code>AST</code>
-<code>Tree-sitter</code>
-<code>Ollama</code>
-<code>Local LLMs</code>
-
-<br/><br/>
-
-<a href="https://github.com/YellankiKaushik/Codebase-Architect">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Local-first **codebase intelligence and architecture engine** that turns repositories into evidence-backed documentation and synchronized diagrams. Deterministic scanners build a Code Intelligence Graph first; optional local AI only explains bounded evidence, and the system can run entirely without an LLM.
 
 </td>
-
-<td width="50%" valign="top">
-
-<h3>📦 LoadGuard 3D</h3>
-
-<img src="https://img.shields.io/badge/AGENTIC%20SYSTEM-00B8D9?style=flat-square" />
-
-<br/><br/>
-
-A **WebMCP-native logistics system** where an AI agent can inspect state, create deterministic 3D load plans, validate them, and stage actions.
-
-The agent cannot authorize its own proposal. Exact execution remains **human-controlled and database-enforced**.
-
-<br/>
-
-<code>WebMCP</code>
-<code>React</code>
-<code>TypeScript</code>
-<code>Three.js</code>
-<code>Supabase</code>
-
-<br/><br/>
-
-<a href="https://github.com/YellankiKaushik/Load-WebMCP">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://webmcp-openai.kaushikyellanki.workers.dev/">
-  <img src="https://img.shields.io/badge/Live%20Demo-00B8D9?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</a>
-
-</td>
-
 </tr>
 
 <tr>
+<td>
 
-<td width="50%" valign="top">
+### [📦 LoadGuard 3D](https://github.com/YellankiKaushik/Load-WebMCP)
 
-<h3>🧠 Local AI Side Panel</h3>
+![WebMCP](https://img.shields.io/badge/WebMCP-00B8D9?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-<img src="https://img.shields.io/badge/LOCAL%20AI-FF4ECD?style=flat-square" />
-
-<br/><br/>
-
-A Chrome Manifest V3 extension for chatting with **locally installed Ollama models** directly from the browser.
-
-Supports model discovery, streaming generation, conversation management, local persistence, configurable inference, and loopback-only model endpoints — without requiring cloud inference.
-
-<br/>
-
-<code>Chrome MV3</code>
-<code>TypeScript</code>
-<code>Ollama</code>
-<code>IndexedDB</code>
-<code>Local AI</code>
-
-<br/><br/>
-
-<a href="https://github.com/YellankiKaushik/Gemma-4-e4b">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Agent-native **3D logistics planning system** where AI can inspect, plan, validate and stage actions, but humans retain execution authority. The reference scenario improves from **8/9 → 9/9 packages placed**, reaches **78.4% utilization**, and completes with **0 hard violations**. [Live demo](https://webmcp-openai.kaushikyellanki.workers.dev/)
 
 </td>
-
-<td width="50%" valign="top">
-
-<h3>🇮🇳 SchemeSeva</h3>
-
-<img src="https://img.shields.io/badge/RAG%20%2B%20AGENTS-F59E0B?style=flat-square" />
-
-<br/><br/>
-
-A civic AI agent that helps citizens discover government schemes they may likely qualify for.
-
-Combines **semantic retrieval, deterministic eligibility rules, persistent agent memory, source-grounded generation, safety validation, and proactive monitoring**.
-
-<br/>
-
-<code>TypeScript</code>
-<code>Qdrant</code>
-<code>RAG</code>
-<code>Agents</code>
-<code>Langfuse</code>
-<code>Enkrypt</code>
-
-<br/><br/>
-
-<a href="https://github.com/YellankiKaushik/Agent-Codex-Hackathon">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://agent-codex-hackathon.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-F59E0B?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</td>
-
 </tr>
 
 <tr>
+<td>
 
-<td width="50%" valign="top">
+### [🧠 Local AI Side Panel](https://github.com/YellankiKaushik/Gemma-4-e4b)
 
-<h3>🛡️ ShieldRouter</h3>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Chrome](https://img.shields.io/badge/Chrome_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-FF4ECD?style=flat-square)
 
-<img src="https://img.shields.io/badge/MULTIMODAL%20AI-EF4444?style=flat-square" />
-
-<br/><br/>
-
-A multimodal notification-routing system that decides whether incoming messages should **notify, digest, or mute**.
-
-Combines deterministic policy, retrieval, local OCR, local speech recognition, structured evidence, and safety checks rather than depending entirely on remote model inference.
-
-<br/>
-
-<code>Python</code>
-<code>Faster-Whisper</code>
-<code>OCR</code>
-<code>Retrieval</code>
-<code>Multimodal AI</code>
-
-<br/><br/>
-
-<a href="https://github.com/YellankiKaushik/Hacker-Rank-Sheild-Router">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Privacy-first Chrome side panel for chatting with **locally installed Ollama models**. Supports model discovery, streaming generation, multiple conversations, local persistence and configurable inference while keeping the runtime free from project-controlled cloud inference.
 
 </td>
-
-<td width="50%" valign="top">
-
-<h3>📊 AI Free Tier Tracker</h3>
-
-<img src="https://img.shields.io/badge/OPEN%20SOURCE%20DATA-10B981?style=flat-square" />
-
-<br/><br/>
-
-A verified, machine-readable knowledge base for **AI coding tools, coding agents, app builders, model APIs, quotas, reset windows, and free-tier restrictions**.
-
-Built as maintainable data infrastructure with validation, generated artifacts, evidence tracking, and CI — not just another manually maintained tool list.
-
-<br/>
-
-<code>Python</code>
-<code>Structured Data</code>
-<code>Automation</code>
-<code>CI</code>
-<code>Developer Tools</code>
-
-<br/><br/>
-
-<a href="https://github.com/YellankiKaushik/AI-Free-Tier-Tracker">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
 </tr>
+
+<tr>
+<td>
+
+### [🇮🇳 SchemeSeva](https://github.com/YellankiKaushik/Agent-Codex-Hackathon)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7B61FF?style=flat-square)
+![Agents](https://img.shields.io/badge/AI_Agents-F59E0B?style=flat-square)
+
+Civic AI system that matches citizens against a verified catalog of **28 Central + Telangana government schemes** using semantic retrieval, deterministic eligibility checks, persistent memory and safety validation. A Vigilance Agent can proactively surface previously unseen matches. [Live demo](https://agent-codex-hackathon.vercel.app/)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### [🛡️ ShieldRouter](https://github.com/YellankiKaushik/Hacker-Rank-Sheild-Router)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Whisper](https://img.shields.io/badge/Faster--Whisper-4B8BBE?style=flat-square)
+![OCR](https://img.shields.io/badge/Local_OCR-EF4444?style=flat-square)
+![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-7B61FF?style=flat-square)
+
+Multimodal notification router that turns incoming content into **notify / digest / mute** decisions using deterministic policy, retrieval, local OCR and local speech recognition. After local model preparation, the multimodal path can execute with **0 external provider requests**.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### [📊 AI Free Tier Tracker](https://github.com/YellankiKaushik/AI-Free-Tier-Tracker)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-10B981?style=flat-square)
+![Open Data](https://img.shields.io/badge/Open_Data-00B8D9?style=flat-square)
+
+Verified, machine-readable intelligence layer for AI coding tools, agents, app builders and model APIs — currently tracking **43 tools** across quotas, resets, trials and restrictions. Validation and CI generate structured datasets, reset calendars, README tables and dashboard data automatically.
+
+</td>
+</tr>
+
 </table>
-
----
 
 # 🧰 Engineering Stack
 
