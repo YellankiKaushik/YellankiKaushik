@@ -320,21 +320,6 @@ I’m particularly interested in building:
 
 ---
 
-## 🏆 Recognition
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Top%2050%20%2F%20500-Lyzr%20Agentathon%202026-F59E0B?style=for-the-badge" />
-
-<br/><br/>
-
-**Unleash LLM Innovation Challenge**  
-**1M1B Open Source Recognition**  
-**Google Crowdsource Hackathon Organizer @ VBIT**
-
-</div>
-
----
 
 ## 🤝 Let's Build
 
